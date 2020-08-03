@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="./.github/logo.svg" width='250'>
+<img src="./.github/proffy.png" width='250'>
 
 ---
 
@@ -17,7 +17,7 @@
 Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy.
 
 <div align='center'>
-<img src="./.github/nlw.png" width='250'>
+<img src="./.github/logo.svg" width='250'>
 
 ---
 
