@@ -67,7 +67,7 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 
 ## <p id='layout'>🎨 Layout ? </p>
 
-<a href='https://reactnative.dev/'>✍ Layout no Figma</a>
+<a href='https://www.figma.com/file/ywMHU25xWY9Th0HyfGAirG/Proffy_Web(copy_RocketSeat)?node-id=0%3A1'>✍ Layout no Figma</a>
 
 <div align='center'>
   
