@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="./.github/proffy.png" width='200'>
+<img src="./.github/logo.svg" width='250'>
 
 ---
 
