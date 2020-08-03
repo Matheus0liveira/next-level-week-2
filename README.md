@@ -70,9 +70,12 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 <a href='https://reactnative.dev/'>✍ Layout no Figma</a>
 
 <div align='center'>
-  ###  📸 Capa do Proffy
+  
+###  📸 Capa do Proffy
 <img src="./.github/capa.png" width='500'>
-  ###  📸 Print da lista de professores
+
+
+###  📸 Print da lista de professores
 <img src="./.github/print2.png" width='500'>
 
 </div>
