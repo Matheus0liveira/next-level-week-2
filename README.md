@@ -43,7 +43,7 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 
 #### 1. ✅ Acelerando sua evolução</li>
 
-#### 2. 🚧 Olhando as oportunidades</li>
+#### 2. ✅ Olhando as oportunidades</li>
 
 #### 3. 🚧 A escolha da stack</li>
 
