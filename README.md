@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align='center'>
 <img src="./.github/proffy.png" width='250'>
 
@@ -45,9 +44,9 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 
 #### 2. ✅ Olhando as oportunidades</li>
 
-#### 3. 🚧 A escolha da stack</li>
+#### 3. ✅ A escolha da stack</li>
 
-#### 4. 🚧 Até 2 anos em 2 meses</li>
+#### 4. ✅ Até 2 anos em 2 meses</li>
 
 #### 5. 🚧 A milha extra</li>
 
