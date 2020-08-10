@@ -75,6 +75,5 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 <img src="./.github/print2.png" width='500'>
 
 </div>
-=======
-<div align='center'>
-<img src="./.github/proffy.png" width='250'>
+
+
